@@ -1,0 +1,32 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\LKJSDF23JLKlkjlklkjO\Documents\NetBeansProjects\BuzzCrypt\dist\BuzzCrypt.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\LKJSDF23JLKlkjlklkjO\Documents\NetBeansProjects\BuzzCrypt\dist\.
+Java min ver:	1.6.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_131\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_121
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8.0_121
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_131
+Check launcher:	C:\Program Files\Java\jre1.8.0_131\bin\javaw.exe (OK)
+Match:		1.8.0_131
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_131
+Ignore:		1.8.0_131
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_131 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_131\bin\javaw.exe
+Launcher args:	-jar "C:\Users\LKJSDF23JLKlkjlklkjO\Documents\NetBeansProjects\BuzzCrypt\dist\BuzzCrypt.exe"
+Args length:	92/32768 chars
+Exit code:	0
